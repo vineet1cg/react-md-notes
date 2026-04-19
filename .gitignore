@@ -1,0 +1,15 @@
+# Session files
+session-*.md
+
+# OpenCode
+.commandcode/
+.opencode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
